@@ -7,6 +7,12 @@ In order to view my saved websites,
 I'd like to be able to see a list of my bookmarks.
 ```
 
+```
+As a user,
+So that I can keep track of my favourite websites,
+I'd like to be able to add a bookmark.
+```
+
 ## Domain Model
 ![Bookmark Domain Model](https://github.com/SarahM55/bookmark-challenge/blob/main/1st-user-story.png?raw=true)
 
